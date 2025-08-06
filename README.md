@@ -1,7 +1,7 @@
 # sage-cloud-accounting-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Sage Cloud Accounting
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Sage Cloud Accounting (beta)](https://www.cdata.com/download/download.aspx?sku=GAZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Sage Cloud Accounting (beta)](https://www.cdata.com/download/download.aspx?sku=GAZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Sage Cloud Accounting supported by the [CData JDBC Driver for Sage Cloud Accounting](https://www.cdata.com/drivers/sagecloudaccounting/jdbc).
 
